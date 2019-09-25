@@ -41,6 +41,17 @@
             <e p="LoopListItem.cs" t="Include" />
             <e p="LoopListModel.cs" t="Include" />
           </e>
+          <e p="Example 6" t="Include">
+            <e p="Controller.cs" t="Include" />
+            <e p="LifeBar.cs" t="Include" />
+            <e p="LifeBarItem.cs" t="Include" />
+          </e>
+          <e p="Example 9" t="Include">
+            <e p="FadeEffect.cs" t="Include" />
+            <e p="FluctiateEffect.cs" t="Include" />
+            <e p="PhotoWall.cs" t="Include" />
+            <e p="PhotoWallItem.cs" t="Include" />
+          </e>
         </e>
         <e p="Demigiant" t="Include">
           <e p="DemiLib" t="Include">

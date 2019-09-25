@@ -72,6 +72,13 @@
     <Compile Include="Assets\_MyScripts\Example 5\LoopList.cs" />
     <Compile Include="Assets\_MyScripts\Example 5\LoopListItem.cs" />
     <Compile Include="Assets\_MyScripts\Example 5\LoopListModel.cs" />
+    <Compile Include="Assets\_MyScripts\Example 6\Controller.cs" />
+    <Compile Include="Assets\_MyScripts\Example 6\LifeBar.cs" />
+    <Compile Include="Assets\_MyScripts\Example 6\LifeBarItem.cs" />
+    <Compile Include="Assets\_MyScripts\Example 9\FadeEffect.cs" />
+    <Compile Include="Assets\_MyScripts\Example 9\FluctiateEffect.cs" />
+    <Compile Include="Assets\_MyScripts\Example 9\PhotoWall.cs" />
+    <Compile Include="Assets\_MyScripts\Example 9\PhotoWallItem.cs" />
     <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
     <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" />
     <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" />

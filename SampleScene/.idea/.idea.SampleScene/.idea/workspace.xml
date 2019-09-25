@@ -34,27 +34,39 @@
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07ACD42A-4D06-4CBD-AC11-856405CD71FB/5c/c4fefb16/Rect.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_MyScripts/Example 9/FluctiateEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_MyScripts/Example 9/FadeEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_MyScripts/Example 9/PhotoWall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2665E41A-368E-4E42-B31A-23BC9F64C91C/2a/4c11243c/Image.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/18/0ba17cd7/Func`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07ACD42A-4D06-4CBD-AC11-856405CD71FB/ac/56f22abe/Bounds.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2665E41A-368E-4E42-B31A-23BC9F64C91C/ba/7e4e255b/Graphic.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/be/52940f9b/Action.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_MyScripts/Example 6/LifeBarItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_MyScripts/Example 9/PhotoWallItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07ACD42A-4D06-4CBD-AC11-856405CD71FB/13/a56b1157/Renderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07ACD42A-4D06-4CBD-AC11-856405CD71FB/c2/8196c711/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07ACD42A-4D06-4CBD-AC11-856405CD71FB/b1/8491a331/Behaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2665E41A-368E-4E42-B31A-23BC9F64C91C/e4/1ef1ec29/PointerEventData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07ACD42A-4D06-4CBD-AC11-856405CD71FB/7c/058f7938/RectTransform.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Editor/RadarChartEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_MyScripts/Example 6/Controller.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Editor/CustomImageEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_MyScripts/Example 6/LifeBar.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07ACD42A-4D06-4CBD-AC11-856405CD71FB/b8/df3e4ff6/Transform.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2665E41A-368E-4E42-B31A-23BC9F64C91C/2a/4c11243c/Image.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_MyScripts/Example 5/LoopListItem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/18/0ba17cd7/Func`2.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_MyScripts/Example 5/LoopList.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_MyScripts/Example 5/LoopListModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07ACD42A-4D06-4CBD-AC11-856405CD71FB/5b/a6a6a9f5/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2665E41A-368E-4E42-B31A-23BC9F64C91C/ba/7e4e255b/Graphic.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/be/52940f9b/Action.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_MyScripts/Example 4/RadarChartHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_MyScripts/Example 4/RadarChart.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/06452B71-9576-486B-AAA3-34B141B6537A/d6/6729e988/Void.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_MyScripts/Example 3/RotationDiagram2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_MyScripts/Example 3/RotationDiagramItem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07ACD42A-4D06-4CBD-AC11-856405CD71FB/c2/8196c711/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07ACD42A-4D06-4CBD-AC11-856405CD71FB/a4/4bb025f8/Object.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -64,10 +76,17 @@
         <option value="$PROJECT_DIR$/Assets/Editor/RadarChartEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/_MyScripts/Example 3/RotationDiagramItem.cs" />
         <option value="$PROJECT_DIR$/Assets/_MyScripts/Example 3/RotationDiagram2D.cs" />
-        <option value="$PROJECT_DIR$/Assets/_MyScripts/Example 5/LoopList.cs" />
-        <option value="$PROJECT_DIR$/Assets/_MyScripts/Example 5/LoopListItem.cs" />
-        <option value="$PROJECT_DIR$/Assets/_MyScripts/Example 5/LoopListModel.cs" />
         <option value="$PROJECT_DIR$/Assets/_MyScripts/Example 4/RadarChart.cs" />
+        <option value="$PROJECT_DIR$/Assets/_MyScripts/Example 5/LoopListModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/_MyScripts/Example 5/LoopListItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/_MyScripts/Example 5/LoopList.cs" />
+        <option value="$PROJECT_DIR$/Assets/_MyScripts/Example 6/Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/_MyScripts/Example 6/LifeBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/_MyScripts/Example 6/LifeBarItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/_MyScripts/Example 9/PhotoWall.cs" />
+        <option value="$PROJECT_DIR$/Assets/_MyScripts/Example 9/FluctiateEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/_MyScripts/Example 9/FadeEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/_MyScripts/Example 9/PhotoWallItem.cs" />
       </list>
     </option>
   </component>
@@ -78,6 +97,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assets/_MyScripts/Example 9" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -86,7 +106,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -131,6 +151,17 @@
       <workItem from="1568537971843" duration="8269000" />
       <workItem from="1568603553422" duration="21052000" />
       <workItem from="1568698503961" duration="10000" />
+      <workItem from="1568701621358" duration="22102000" />
+      <workItem from="1568773239959" duration="2629000" />
+      <workItem from="1568776316345" duration="805000" />
+      <workItem from="1568777359105" duration="13293000" />
+      <workItem from="1568856268350" duration="13574000" />
+      <workItem from="1568897882979" duration="2457000" />
+      <workItem from="1568944317790" duration="6217000" />
+      <workItem from="1568950711343" duration="6046000" />
+      <workItem from="1569034071005" duration="5909000" />
+      <workItem from="1569111969106" duration="19860000" />
+      <workItem from="1569198671089" duration="6558000" />
     </task>
     <servers />
   </component>
